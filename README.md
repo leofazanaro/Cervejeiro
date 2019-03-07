@@ -30,7 +30,7 @@
 * Adicionado cor na NavigationBar
 
 
-### `RC1`
+### build `190212`
 
    
 * Adicionado central de temas
