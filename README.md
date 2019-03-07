@@ -1,6 +1,6 @@
 # Cervejeiro
 
-
+<img src='art/ic_launcher.png'/>
 
 > Ultima versão [`Cervejeiro.apk`](./colorpicker/src/main/res/values/top_defaults_view_color_picker_attrs.xml).
 
