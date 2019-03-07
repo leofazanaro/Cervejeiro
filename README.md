@@ -1,23 +1,35 @@
 # Cervejeiro
 
+
+
+> Ultima versão [`Cervejeiro.apk`](./colorpicker/src/main/res/values/top_defaults_view_color_picker_attrs.xml).
+
+
+
 ### build `190302`
 
    
 * Adicionado Bafometro
 
 
-*build 190220
+### build `190220`
 
-  Adicionado Bebedometro 
+   
+* Adicionado Bebedometro
 
-*build 190216
 
-  Adicionado cerveja favorita
+### build `190216`
 
-*build 190214 
+   
+* Adicionado cerveja favorita
 
-  Adicionado cor na NavigationBar
+### build `190214`
 
-*RC1
+   
+* Adicionado cor na NavigationBar
 
-  Adicionado central de temas
+
+### `RC1`
+
+   
+* Adicionado central de temas
