@@ -1,11 +1,16 @@
-# Cervejeiro
+﻿# Cervejeiro
 
 <img src='art/ic_launcher.png'/>
 
-> Ultima versão [`Cervejeiro.apk`](./colorpicker/src/main/res/values/top_defaults_view_color_picker_attrs.xml).
+> Ultima versão [`Cervejeiro.apk`](/apks/app-debug.apk).
 
 
 ## CHECKLOG
+
+### build `190307`
+
+   
+* Adicionado Calculadora de Choop
 
 ### build `190302`
 
